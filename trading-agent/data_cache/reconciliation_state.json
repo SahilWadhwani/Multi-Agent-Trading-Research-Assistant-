@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-05-25T12:43:04.084607+05:30",
+  "token_valid": true,
+  "broker_fetch_attempted": false,
+  "local_open_count": 0,
+  "status": "SKIPPED_NO_BROKER",
+  "reconciliation_ok": true
+}

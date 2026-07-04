@@ -1,0 +1,16 @@
+{
+  "regime": "range_bound",
+  "session_bias": "NEUTRAL",
+  "key_levels": {
+    "support": null,
+    "resistance": null
+  },
+  "strategy_preference": "avoid directional trades; favor premium selling in defined ranges",
+  "avoid_list": [
+    "naked longs",
+    "naked shorts",
+    "high-gamma positions"
+  ],
+  "notes": "India VIX at 15 indicates low volatility; NIFTY spot and OI data unavailable, so precise levels cannot be set. Recent stats show small sample with perfect win rate (4 trades, PnL 3523), but risk remains given limited data. Focus on conservative, range-bound strategies until clearer market signals emerge.",
+  "generated_at": "2026-05-12T09:10:37.642468+05:30"
+}

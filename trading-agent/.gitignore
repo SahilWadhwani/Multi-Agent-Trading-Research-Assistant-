@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# Database
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Tokens
+token.json
+access_token.txt
+
+# Logs
+*.log

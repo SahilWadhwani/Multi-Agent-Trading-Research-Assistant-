@@ -1,0 +1,7 @@
+while true; do
+  echo "===== scheduler start 2026-05-08 10:13:52 IST ====="
+  venv/bin/python -u scheduler.py --fo-only --capital 17000 --interval 10
+  code=$?
+  echo "===== scheduler exited code $code 2026-05-08 10:13:52 IST ====="
+  sleep 30
+done

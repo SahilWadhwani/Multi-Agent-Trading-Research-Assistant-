@@ -1,0 +1,13 @@
+{
+  "mode": "shadow",
+  "trading_enabled": true,
+  "kill_switch": false,
+  "non_interactive": false,
+  "token_valid": true,
+  "reconciliation_ok": true,
+  "risk_ok": true,
+  "risk_lock_reason": "",
+  "broker_orders_allowed": false,
+  "reasons_blocked": [],
+  "updated_at": "2026-05-25T12:43:04.085351+05:30"
+}

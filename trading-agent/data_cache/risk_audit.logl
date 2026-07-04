@@ -1,0 +1,51 @@
+{"ts": "2026-05-12T08:08:27.317393+05:30", "message": "entry_timeout_order_cancelled", "details": {"order_id": "OID1", "decision_id": "D1"}}
+{"ts": "2026-05-12T08:17:05.597268+05:30", "message": "orphan_auto_flatten", "details": {"instrument_key": "NSE_FO|TEST", "symbol": "TEST", "side": "SELL", "qty": 1}}
+{"ts": "2026-05-12T08:17:05.597279+05:30", "message": "orphan_auto_flatten", "details": {"instrument_key": "NSE_FO|TEST", "symbol": "TEST", "side": "SELL", "qty": 1}}
+{"ts": "2026-05-12T08:17:05.598757+05:30", "message": "entry_timeout_cancel_rejected", "details": {"order_id": "OID1", "decision_id": "D1", "response": {"status": "error", "message": "already filled"}}}
+{"ts": "2026-05-12T08:17:05.598970+05:30", "message": "orphan_flatten_fill_unconfirmed", "details": {"instrument_key": "NSE_FO|TEST", "oid": "OID1"}}
+{"ts": "2026-05-12T08:47:15.569920+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-12T08:47:15.582380+05:30", "message": "startup_stale_positions", "details": {"count": 1, "decision_ids": ["DEC_20260510_225734_492779"]}}
+{"ts": "2026-05-12T09:09:41.220937+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-12T09:09:41.221506+05:30", "message": "startup_stale_positions", "details": {"count": 1, "decision_ids": ["DEC_20260510_225734_492779"]}}
+{"ts": "2026-05-12T09:10:05.591685+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-12T09:10:05.592185+05:30", "message": "startup_stale_positions", "details": {"count": 1, "decision_ids": ["DEC_20260510_225734_492779"]}}
+{"ts": "2026-05-12T09:10:32.146455+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-12T09:10:32.146910+05:30", "message": "startup_stale_positions", "details": {"count": 1, "decision_ids": ["DEC_20260510_225734_492779"]}}
+{"ts": "2026-05-12T09:19:51.138018+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-12T09:19:51.138569+05:30", "message": "startup_stale_positions", "details": {"count": 1, "decision_ids": ["DEC_20260510_225734_492779"]}}
+{"ts": "2026-05-12T09:20:20.967274+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-12T09:20:20.967744+05:30", "message": "startup_stale_positions", "details": {"count": 1, "decision_ids": ["DEC_20260510_225734_492779"]}}
+{"ts": "2026-05-12T09:22:08.611774+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-12T09:23:01.192032+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-12T09:23:58.880225+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-12T09:37:35.096280+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-12T10:01:57.265923+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-13T09:55:06.048436+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-13T09:57:45.300165+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-13T10:00:45.892113+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-13T11:03:52.582534+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-13T11:04:10.404299+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-13T11:18:46.963937+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-14T03:10:44.548890+05:30", "message": "gtt_recovered", "details": {"decision_id": "D1", "gtt_id": "GTT-1"}}
+{"ts": "2026-05-14T03:12:14.128681+05:30", "message": "gtt_recovered", "details": {"decision_id": "D1", "gtt_id": "GTT-1"}}
+{"ts": "2026-05-14T03:27:04.991796+05:30", "message": "gtt_recovered", "details": {"decision_id": "D1", "gtt_id": "GTT-1"}}
+{"ts": "2026-05-14T03:28:50.081590+05:30", "message": "startup_recovered_local_position", "details": {"decision_id": "D1", "instrument_key": "NSE_FO|TEST", "filled_qty": 65, "avg_px": 100.0}}
+{"ts": "2026-05-14T03:28:50.094750+05:30", "message": "gtt_recovered", "details": {"decision_id": "D1", "gtt_id": "GTT-1"}}
+{"ts": "2026-05-14T03:35:48.229963+05:30", "message": "gtt_recovered", "details": {"decision_id": "D1", "gtt_id": "GTT-1"}}
+{"ts": "2026-05-15T09:19:03.331737+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-15T09:19:03.332161+05:30", "message": "startup_stale_positions", "details": {"count": 1, "decision_ids": ["D1"]}}
+{"ts": "2026-05-15T09:19:03.333879+05:30", "message": "startup_stale_auto_closed_paper", "details": {"count": 1, "decision_ids": ["D1"]}}
+{"ts": "2026-05-15T09:38:18.901231+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-22T09:10:38.342310+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-22T09:23:01.088445+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-25T10:11:46.270065+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-25T10:13:23.850060+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-25T10:16:06.370938+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-25T10:19:44.394124+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-25T10:21:13.521856+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-25T10:22:42.349655+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-25T10:23:41.964128+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-25T10:24:53.526924+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-25T10:26:28.601188+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-25T10:29:44.824118+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
+{"ts": "2026-05-25T10:32:12.024225+05:30", "message": "startup_pending_intents_no_client", "details": {"count": 1}}
